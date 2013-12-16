@@ -1,0 +1,2 @@
+while running tests in eclipse, setup Run Configurations ... with following VM arguments: 
+-javaagent:lib/Lifecycle-0.0.1-SNAPSHOT.jar
